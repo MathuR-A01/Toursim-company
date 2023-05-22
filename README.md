@@ -1,2 +1,2 @@
 # Toursim-company
-$$ Static website Template
+* Static website Template
